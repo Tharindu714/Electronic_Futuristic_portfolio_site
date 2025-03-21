@@ -1,0 +1,19 @@
+@font-face {
+    font-family: "Quicksand";
+    src: url("fonts/Quicksand-Medium.ttf");
+}
+
+@font-face {
+    font-family: "Quincy";
+    src: url("fonts/QuincyCF.otf");
+}
+
+@font-face {
+    font-family: "Dash";
+    src: url("fonts/Dashdemo-ozJA.ttf");
+}
+
+* {
+    font-family: "Quicksand";
+    font-size: 14px;
+}
